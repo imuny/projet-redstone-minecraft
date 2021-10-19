@@ -16,9 +16,9 @@ A | B | S
 1 | 1 | 1
 
 *légende
-- fils de redstone
-- 0 torche de restone
-- o block*
+*- fils de redstone
+*- 0 torche de restone
+*- o block
 
 schema en block | x | x | x | x | x
 --------------- | - | - | - | - | ---
@@ -38,9 +38,9 @@ A | B | S
 1 | 1 | 1
 
 *légende
-- fils de redstone
-- 0 torche de restone
-- block*
+*- fils de redstone
+*- 0 torche de restone
+*- block
 
 schema en block | x | x | x | x | x
 --------------- | - | - | - | - | ---
@@ -58,9 +58,9 @@ A | S
 1 | 0
 
 *légende
-- fils de redstone
-- 0 torche de restone
-- o block*
+*- fils de redstone
+*- 0 torche de restone
+*- o block
 
 schema en block | x | x | x | x | x
 ----------------| - | - | - | - | -
@@ -80,9 +80,9 @@ A | B | S
 1 | 1 | 0
 
 *légende
-- fils de redstone
-- 0 torche de restone
-- o block*
+*- fils de redstone
+*- 0 torche de restone
+*- o block
 
 schema en block | x | x | x | x | x
 --------------- | - | - | - | - | ---
