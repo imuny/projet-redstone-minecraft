@@ -15,7 +15,7 @@ A | B | S
 1 | 0 | 0
 1 | 1 | 1
 
-*légende
+* légende 
 - fils de redstone
 - 0 torche de restone
 - o block
@@ -37,7 +37,7 @@ A | B | S
 1 | 0 | 1
 1 | 1 | 1
 
-*légende
+* légende
 - fils de redstone
 - 0 torche de restone
 - block
@@ -57,7 +57,7 @@ A | S
 0 | 1
 1 | 0
 
-légende
+* légende
 - fils de redstone
 - 0 torche de restone
 - o block
@@ -79,7 +79,7 @@ A | B | S
 1 | 0 | 1
 1 | 1 | 0
 
-légende
+* légende
 - fils de redstone
 - 0 torche de restone
 - o block
